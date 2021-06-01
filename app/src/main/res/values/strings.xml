@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="todo">TODO</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_in_with_google_using_firebase">Sign-In with Google using Firebase!</string>
+    <string name="sign_in_with_google">Sign In with Google</string>
+    <string name="logout">Logout</string>
+    <string name="textview">TextView</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">search</string>
+    <string name="browse">Browse</string>
+    <string name="camera">Camera</string>
+    <string name="home">Home</string>
+    <string name="upload">Upload</string>
+    <string name="save_name">save name</string>
+    <string name="show_all">Show All</string>
+    <string name="save">Save</string>
+    <string name="title">Tiltle</string>
+    <string name="no_name">No name</string>
+
+
+</resources>
